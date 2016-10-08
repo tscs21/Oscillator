@@ -1,0 +1,7 @@
+.compression-meter{
+    position: absolute;
+    width: 50px;
+    display: block;
+    top: 0px;
+    background: red;
+}
